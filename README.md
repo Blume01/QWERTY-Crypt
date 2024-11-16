@@ -24,13 +24,13 @@ O dicionário mapeia caracteres para diferentes linhas, baseando-se nos grupos d
 
 ```php
 private static $dict = [
-    'q' => "qwertyuiopêûîôéúíóèùìòõ´[",
-    'a' => "asdfghjklçâáàã~]",
-    'z' => "zxcvbnm,.;/",
-    '1' => "1234567890'\"!@#$%¨&*()-_=+",
-    'Q' => "QWERTYUIOPÊÛÎÔÉÚÍÓÈÙÌÒÕ`{",
-    'A' => "ASDFGHJKLÇÂÁÀÃ^}",
-    'Z' => "ZXCVBNM<>:?\\|",
+  'q' => "qwertyuiopêûîôéúíóèùìòõ´[",
+  'a' => "asdfghjklçâáàã~]",
+  'z' => "zxcvbnm,.;/",
+  '1' => "1234567890'\"!@#$%¨&*()-_=+",
+  'Q' => "QWERTYUIOPÊÛÎÔÉÚÍÓÈÙÌÒÕ`{",
+  'A' => "ASDFGHJKLÇÂÁÀÃ^}",
+  'Z' => "ZXCVBNM<>:?\|",
 ];
 ```
 
